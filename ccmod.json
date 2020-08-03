@@ -1,0 +1,11 @@
+{
+	"id": "ccrandomevents",
+	"version": "0.1.0",
+	"title": {
+		"en_US": "CCRandomEvents"
+	},
+	"description": {
+		"en_US": "A mod that adds various new events to the game. These are triggered by talking to NPCs, and walking around maps."
+	},
+	"homepage": "https://github.com/keanuplayz/CCRandomEvents"
+}
